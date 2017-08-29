@@ -10,6 +10,8 @@ exclude_paths:
   - "Godeps"
   - "test_fixtures"
   - "vendor"
+  - "/vm/instruction.go"
+  - "/vm/vm.go"
 
 ratings:
   paths:
