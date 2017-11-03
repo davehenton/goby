@@ -1,4 +1,3 @@
-version: "2"
 engines:
   govet:
     enabled: true
@@ -7,7 +6,7 @@ engines:
   gofmt:
     enabled: true
 
-exclude_paths:
+exclude_patterns:
   - "Godeps"
   - "test_fixtures"
   - "vendor"
