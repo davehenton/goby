@@ -6,7 +6,7 @@ engines:
   gofmt:
     enabled: true
 
-exclude_patterns:
+exclude_paths:
   - "Godeps"
   - "test_fixtures"
   - "vendor"
